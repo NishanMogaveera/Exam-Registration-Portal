@@ -5,6 +5,7 @@ The Exam Registration Portal is a GUI-based Python project designed to manage st
 
 <img width="697" height="673" alt="image" src="https://github.com/user-attachments/assets/30f74818-5f07-4214-8804-56ac2d397330" />
 
+
 After Registration of students-
 <img width="940" height="211" alt="image" src="https://github.com/user-attachments/assets/f684effe-19d3-4a9d-aa9c-14fac028d981" />
 
